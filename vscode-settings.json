@@ -20,9 +20,9 @@
     
     "javascript.updateImportsOnFileMove.enabled": "always",
     "typescript.updateImportsOnFileMove.enabled": "always",
-    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "workbench.colorTheme": "Gruvbox Dark Medium", // install via Extensions
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "'Cascadia Code', Consolas, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'Cascadia Code', Consolas, Monaco, 'Courier New', monospace", // fonts might need to be installed manually
     "editor.fontLigatures": true,
     "workbench.startupEditor": "none", // no startup page
     "git.mergeEditor": true,
