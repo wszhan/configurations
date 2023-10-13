@@ -1,0 +1,31 @@
+{
+    "workbench.editor.enablePreview": false, // open files in a new tab
+    "editor.minimap.enabled": false, // no mini map at the top right    
+    "editor.fontSize": 14, // vscode neovim    
+    // "vim.enableNeovim": true,
+    // "vim.neovimPath": "/usr/local/bin/nvim",
+    // "vim.neovimUseConfigFile": true,
+    // "vim.neovimConfigPath": "/Users/wszhan/.config/nvim/init.vim",
+    "liveServer.settings.donotShowInfoMsg": true,
+    
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    "debug.disassemblyView.showSourceCode": false,
+    "window.zoomLevel": 1,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Cascadia Code', Consolas, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "workbench.startupEditor": "none", // no startup page
+    "git.mergeEditor": true,
+    "terminal.integrated.fontSize": 14,
+    "editor.lineNumbers": "relative"
+}
