@@ -1,5 +1,6 @@
 # non-bash configs:
 # - font size
+# - terminal emulator: meta key
 
 # ANSI color codes: uncomment only the ones to be used
 # Black 0;30 Dark Gray 1;30
