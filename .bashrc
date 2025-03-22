@@ -30,3 +30,11 @@ COLOR_NONE='\033[0m'
 
 # prompt
 PS1="[${COLOR_PURPLE_LIGHT}\u@\H:\w${COLOR_NONE}] "
+
+alias gs="git status "
+alias gc="git checkout "
+alias gb="git branch "
+alias dc="docker compose"
+alias ta="tmux attach -t "
+alias tns="tmux new -s "
+alias tl="tmux ls "
