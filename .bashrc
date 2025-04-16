@@ -38,3 +38,5 @@ alias dc="docker compose"
 alias ta="tmux attach -t "
 alias tns="tmux new -s "
 alias tl="tmux ls "
+alias nv="nvim "
+
